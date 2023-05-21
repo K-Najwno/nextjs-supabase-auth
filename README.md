@@ -2,13 +2,13 @@
 
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 0.75rem;">
   <a href="https://nextjs.org">
-    <img src="https://img.shields.io/github/package-json/dependency-version/mryechkin/nextjs-supabase-auth/next?style=for-the-badge" alt="Next.js" />
+    <img src="https://img.shields.io/github/package-json/dependency-version/AwfulDarkness/nextjs-supabase-auth/next?style=for-the-badge" alt="Next.js" />
   </a>
   <a href="https://www.supabase.io">
-    <img src="https://img.shields.io/github/package-json/dependency-version/mryechkin/nextjs-supabase-auth/@supabase/supabase-js?color=%2322c55e&style=for-the-badge" alt="Supabase" />
+    <img src="https://img.shields.io/github/package-json/dependency-version/AwfulDarkness/nextjs-supabase-auth/@supabase/supabase-js?color=%2322c55e&style=for-the-badge" alt="Supabase" />
   </a>
-  <a href="https://github.com/mryechkin/nextjs-supabase-auth/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/mryechkin/nextjs-supabase-auth?style=for-the-badge" alt="License" />
+  <a href="https://github.com/AwfulDarkness/nextjs-supabase-auth/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/AwfulDarkness/nextjs-supabase-auth?style=for-the-badge" alt="License" />
   </a>
 </p>
 
@@ -26,9 +26,9 @@ This project is a supplement to [this guide](https://www.misha.wtf/blog/supabase
 
 ## Author
 
-[Mykhaylo Ryechkin](https://github.com/mryechkin)
+[Mykhaylo Ryechkin](https://github.com/AwfulDarkness)
 
-<a href="https://www.buymeacoffee.com/mryechkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/AwfulDarkness" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## License
 
